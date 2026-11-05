@@ -65,7 +65,7 @@ packaging==25.0
 propcache==0.3.2
 proto-plus==1.26.1
 protobuf==6.32.0
-pyasn1==0.6.1
+pyasn1==0.6.5
 pyasn1_modules==0.4.2
 pycparser==2.22
 pydantic>=0.0.0
