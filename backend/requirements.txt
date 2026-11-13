@@ -56,7 +56,7 @@ jsonschema-specifications==2025.4.1
 mcp>=0.0.0
 multidict==6.6.4
 numpy==2.3.2
-opentelemetry-api==1.36.0
+opentelemetry-api==1.45.2
 opentelemetry-exporter-gcp-trace==1.9.0
 opentelemetry-resourcedetector-gcp==1.9.0a0
 opentelemetry-sdk==1.36.0
